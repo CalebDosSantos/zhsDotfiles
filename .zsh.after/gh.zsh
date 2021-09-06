@@ -157,3 +157,6 @@ _gh()
 if [ "$funcstack[1]" = "_gh" ]; then
 	_gh
 fi
+
+#Init a Github repo from local project
+alias GH_INIT="git init . && gh repo create"
