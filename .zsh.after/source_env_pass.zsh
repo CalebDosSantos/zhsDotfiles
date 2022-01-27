@@ -1,0 +1,1 @@
+source $HOME/.ENV_PASSWORDS
